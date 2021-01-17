@@ -4,11 +4,13 @@ https://github.com/vinfamy/LifePlay
 
 
 ### 1- rk_MeatShop  : 
-Add options to buy/eat meat at different places around the city.
+Add options to buy/eat meaty meals at different places around the city.  
+8 types of meals with meat.  
+Contain 3 scenes.  
 
 
 ### Module requirements
-None
+At least LifePlay 3.18
 
 
 ### Module conflict
@@ -24,7 +26,7 @@ c:\..\LifePlay\Content\Modules\rk_MeatShop
 
 NOT
 
-c:\..\LifePlay\Content\Modules\rk_MeatShop\rk_MeatShop
+c:\..\LifePlay\Content\Modules\RK-Meat-Shop\rk_MeatShop
 
 After the mod have been installed, make sure the mod is active in the Mod Manager. 
 
