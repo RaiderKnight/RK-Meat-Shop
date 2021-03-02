@@ -2,7 +2,9 @@
 <p>Module for the game LifePlay
 <p>https://github.com/vinfamy/LifePlay
 <br>
-<h3>rk_MeatShop  version(1.0): </h3>
+<h3>rk_MeatShop :</h3>
+<p>Version: 1.0.1</p>
+<br>
 <p>Add options to buy/eat meaty meals at different places around the city.</p> 
 <p>8 types of meals with meat.</p>
 <p>Contain 4 scenes.</p>
